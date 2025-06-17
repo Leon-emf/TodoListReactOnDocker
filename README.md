@@ -1,6 +1,6 @@
 # TodoList with React, Node.js, and MySQL
 
-This is a full-stack To-Do List application built with **React**, **Node.js**, and **MySQL**. It allows users to add, complete, and delete tasks in a clean and intuitive interface with data persistence.
+This is a full-stack To-Do List application built with **React**, **Node.js**, and **MySQL**. It allows users to add, complete, and delete tasks in a clean and intuitive interface with data persistence, runs on docker
 
 ## Features
 
@@ -19,8 +19,8 @@ This is a full-stack To-Do List application built with **React**, **Node.js**, a
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd TodoListReact
+   git clone https://github.com/Leon-emf/TodoListReactOnDocker.git
+   cd TodoListReactOnDocker
    ```
 
 2. Start the application with Docker:
