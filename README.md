@@ -20,7 +20,7 @@ This is a full-stack To-Do List application built with **React**, **Node.js**, a
 1. Clone the repository:
    ```
    git clone https://github.com/Leon-emf/TodoListReactOnDocker.git
-   cd TodoListReact
+   cd TodoListReactOnDocker
    ```
 
 2. Start the application with Docker:
