@@ -4,7 +4,7 @@ import TodoList from './components/TodoList'
 import AddTodo from './components/AddTodo'
 
 // API URL constant
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://todolistreactondocker-production.up.railway.app/api';
 
 function App() {
   const [todos, setTodos] = useState([])
